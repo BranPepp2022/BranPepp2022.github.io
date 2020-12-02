@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Brandon Pepper"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://dohter3i5r84r.cloudfront.net/fa609c14beedfb687c88a212740c4729/898a45a5f3a07d86fd13f44f1731b6e31602707121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIVI3EDGM3AWZGZIQ%2F20201202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201202T211520Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=123e6392aaa5392801b9034b30dc880a116e33285abab7ad22d9a9b3f5b85e75" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Informatics Portfolio"
   location         : "Indiana"
   email            :

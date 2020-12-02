@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
+title: "Information Infustructure II Project"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [HTML, CSS, PHP, PHPMyAdmin]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Information Infustructure II Project"
 mathjax: "true"
 ---
 

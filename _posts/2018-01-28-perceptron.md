@@ -7,6 +7,5 @@ header:
 excerpt: "Information Infustructure II Project"
 mathjax: "true"
 ---
-
-# H1 Heading: This Project showcases a website programmed using OOP.
+This Project showcases a website programmed using OOP.
 

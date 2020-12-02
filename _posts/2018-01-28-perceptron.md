@@ -8,5 +8,5 @@ excerpt: "Information Infustructure II Project"
 mathjax: "true"
 ---
 
-# H1 Heading: This Project showcases a websit programmed using OOP.
+# H1 Heading: This Project showcases a website programmed using OOP.
 

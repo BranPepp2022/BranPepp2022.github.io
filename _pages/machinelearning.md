@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /All Projects/
+permalink: /data-wrangling/
 title: "Informatics Projects"
 author_profile: true
 header:

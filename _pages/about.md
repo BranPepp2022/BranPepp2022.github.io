@@ -5,6 +5,4 @@ header:
   image: "https://go.mckinneylaw.iu.edu/images/indianapolis-edu-1800x600.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I am studdent at Indiana University Purdue University of Indianpolis (IUPUI) pursing a bacholers degree in the field of informatics with a specialization in Human-Computer Interaction (HCI).

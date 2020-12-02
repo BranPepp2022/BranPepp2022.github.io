@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-permalink: /about/
+permalink: /About Me/
 header:
   image: "https://go.mckinneylaw.iu.edu/images/indianapolis-edu-1800x600.jpg"
 ---

@@ -1,5 +1,6 @@
 /*This is the style sheet used for the index and documentation files */
 
+
 /*This is the styling for the navigation bar */ 
 ul {
     list-style-type: none;
@@ -38,14 +39,14 @@ ul {
       font-family: Arial, sans-serif;
       text-align: center;
       color:#6441a5 ;
-      font-size: 32px;
+      font-size: 34px;
      
   }
 
   h2 {
     font-family: Arial, sans-serif;
     text-align: center;
-    font-size: 32px;
+    font-size: 34px;
    
 }
 
@@ -61,6 +62,7 @@ p{
   margin-left:150px;
   text-align: left;
 }
+
 
   /*This is the styling for the footer */
   footer {
